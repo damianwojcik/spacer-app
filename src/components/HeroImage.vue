@@ -18,7 +18,6 @@ export default {
     background-size: cover;
     background-position: 80% 0%;
   }
-
   .heroImage::after {
     content: '';
     background: rgba(0,0,0, .2);
